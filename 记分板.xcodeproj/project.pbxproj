@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7283A52C1EAD9EB500C9D23B /* timg.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 7283A52B1EAD9EB500C9D23B /* timg.jpeg */; };
 		72A718921E88BE4A00AF7EF0 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A718911E88BE4A00AF7EF0 /* AppDelegate.swift */; };
 		72A718941E88BE4A00AF7EF0 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 72A718931E88BE4A00AF7EF0 /* ViewController.swift */; };
 		72A718971E88BE4A00AF7EF0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 72A718951E88BE4A00AF7EF0 /* Main.storyboard */; };
@@ -34,6 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		7283A52B1EAD9EB500C9D23B /* timg.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = timg.jpeg; path = ../../timg.jpeg; sourceTree = "<group>"; };
 		72A7188E1E88BE4A00AF7EF0 /* 记分板.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "记分板.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		72A718911E88BE4A00AF7EF0 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		72A718931E88BE4A00AF7EF0 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -100,6 +102,7 @@
 				72A718911E88BE4A00AF7EF0 /* AppDelegate.swift */,
 				72A718931E88BE4A00AF7EF0 /* ViewController.swift */,
 				72A718951E88BE4A00AF7EF0 /* Main.storyboard */,
+				7283A52B1EAD9EB500C9D23B /* timg.jpeg */,
 				72A718981E88BE4A00AF7EF0 /* Assets.xcassets */,
 				72A7189A1E88BE4A00AF7EF0 /* LaunchScreen.storyboard */,
 				72A7189D1E88BE4A00AF7EF0 /* Info.plist */,
@@ -231,6 +234,7 @@
 			files = (
 				72A7189C1E88BE4A00AF7EF0 /* LaunchScreen.storyboard in Resources */,
 				72A718991E88BE4A00AF7EF0 /* Assets.xcassets in Resources */,
+				7283A52C1EAD9EB500C9D23B /* timg.jpeg in Resources */,
 				72A718971E88BE4A00AF7EF0 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -484,6 +488,7 @@
 				72A718B81E88BE4A00AF7EF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72A718B91E88BE4A00AF7EF0 /* Build configuration list for PBXNativeTarget "记分板Tests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +497,7 @@
 				72A718BB1E88BE4A00AF7EF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		72A718BC1E88BE4A00AF7EF0 /* Build configuration list for PBXNativeTarget "记分板UITests" */ = {
 			isa = XCConfigurationList;
@@ -500,6 +506,7 @@
 				72A718BE1E88BE4A00AF7EF0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
